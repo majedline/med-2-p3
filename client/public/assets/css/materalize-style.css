@@ -1,0 +1,16 @@
+/* Materalize styling page - For styles to change materalize library */
+
+/* Sticky footer */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+    min-height: 81vh;
+  .invalidInput {
+    color:rgb(255, 0, 0);
+
+  }
